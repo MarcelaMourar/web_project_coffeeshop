@@ -121,7 +121,9 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  margin: 100px 0 80px;
+  padding-left: 80px;
+  padding-top: 100px;
+  margin-bottom: 24px;
 }
 
 .recipes__subtitle {
@@ -169,6 +171,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  padding: 100px 0 120px;
 }
 
 .reservation__title {
@@ -177,8 +180,8 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  padding-top: 100px;
   text-align: center;
+  margin: 0 auto;
 }
 
 .reservation__form {
@@ -187,7 +190,6 @@
 
 .form {
   max-width: 385px;
-  margin-bottom: 120px;
 }
 
 .form__fieldset {
