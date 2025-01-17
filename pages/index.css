@@ -121,9 +121,7 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  padding-left: 80px;
-  padding-top: 100px;
-  margin-bottom: 24px;
+  margin: 100px 8px 80px;
 }
 
 .recipes__subtitle {
